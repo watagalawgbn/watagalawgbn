@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Buddhini Watagala</h1>
-<h3 align="center">Software Engineer Intern | Mobile App Developer </h3>
+<h3 align="center">Aspiring Business Analyst</h3>
 <p align="center">
   <em>
-    Hello, I am Buddhini Watagala a <b>third year</b> IT & Management undergraduate from <b>University Of Moratuwa</b>, Sri-Lanka </a>. <br>
+    Hello, I am Buddhini Watagala a <b>final year</b> IT & Management undergraduate from <b>University Of Moratuwa</b>, Sri-Lanka </a>. <br>
   </em> 
   <br>
 </p>
