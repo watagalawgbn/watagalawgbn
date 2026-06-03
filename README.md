@@ -13,30 +13,15 @@
 
 - 🔭 I’m currently working on **Aura(Mental Health Mobile App)**
 
-- 🌱 I’m currently learning **Azure and Flutter**
+- 🌱 I’m currently learning **Business process mapping**
 
 - 📝 I write articles on [https://medium.com/@buddhiniwatagala01](https://medium.com/@buddhiniwatagala01)
-
-- 💬 Ask me about **Angular, React Native and Node.js**
 
 - 📫 How to reach me **buddhiniwatagala01@gmail.com**
 
 - ⚡ Fun fact **I'm a big fan of movies.😌**
 
 ----------------------------------------------------------------------
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,express,figma,github,html,java,c,js,mongodb,mysql,nodejs,react,flutter,postman,ts,vscode,&perline=14" />
-  </a>
-</p>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
